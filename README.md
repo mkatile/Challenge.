@@ -6,5 +6,6 @@ I created a command-line application that dynamically generates a professional R
 ```bash
 node index.js
 ```
+The code is located in the Assets folder.
 Here is the [link](https://drive.google.com/file/d/1h1wOyGU6ZRN5dptjbr0e701EVpPECsqb/view?usp=sharing) to a video walkthrough that demonstrates the functionality of my application.
 
