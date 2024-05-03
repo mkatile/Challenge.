@@ -1,11 +1,13 @@
 
-# Professional README
+# Project Title
+
+Professional README
 
 
 
 ## Description
 
-Create a command-Line application that generates a professional README.md file from user's input using "Inquirer package"
+Create a command-Line application that generates a professional README.md file from user's input using "Inquirer package".
 
 ## Table of Contents
 
@@ -23,6 +25,9 @@ The project should be install by using git clone command line.
 ## Usage
 
 It should be used to create and generate a README dile for user specific project.
+
+## License
+
 
 ## License
 
